@@ -1,0 +1,21 @@
+{
+    "usuarios": [
+      {
+        "nombre": "mariaPaulina",
+        "contraseña": "maria123"
+      },
+      {
+        "nombre": "Sebasbh",
+        "contraseña": "sebas123"
+      }
+    ],
+
+    "tareas": [
+        {
+          "id": 1,
+          "titulo": "Hacer compras",
+          "descripcion": "Comprar alimentos y productos básicos.",
+          "completada": false
+        }
+    ]
+  }
